@@ -1,0 +1,3 @@
+/*
+In this section we will take a look at a brief refresher on redux and how to use it in react native.
+*/
